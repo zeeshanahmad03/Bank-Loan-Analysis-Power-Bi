@@ -68,4 +68,3 @@ It provides insights into good loans, bad loans, loan application trends, custom
 
 Data Analytics | Power BI | Python | AI & ML
 ---
-If you find this project useful, feel free to ⭐ the repository.
