@@ -6,10 +6,10 @@ This project presents an interactive Bank Loan Analytics Dashboard built using M
 The dashboard analyzes bank loan applications, funded amounts, amounts received, interest rates, debt-to-income (DTI) ratios, and loan performance.
 It provides insights into good loans, bad loans, loan application trends, customer home ownership, loan terms, and loan purposes.
 ## Dashboard Preview
-### Dashboard
-![Bank Loan Dashboard](Screenshots/dashboard.png)
-### Overview
-![Bank Loan Overview](Screenshots/overview.png)
+## Dashboard
+![Bank Loan Dashboard](./Summary-dashboard.png)
+## Overview
+![Bank Loan Overview](./Overview-dashboard.png)
 ## Key Performance Indicators (KPIs)
 - Total Loan Applications: 38,576
 - Total Funded Amount: 435.8M
